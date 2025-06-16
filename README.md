@@ -11,7 +11,6 @@ A simple, fun, and interactive command-line game built in Python that tests your
 - [🚀 Features](#-features)
 - [🛠️ Requirements](#️-requirements)
 - [📦 Installation](#-installation)
-- [▶️ How to Play](#️-how-to-play)
 - [📈 Future Enhancements](#-future-enhancements)
 - [📬 Contact](#-contact)
 
@@ -61,7 +60,7 @@ This is a command-line based **Number Guessing Game**. The computer randomly sel
 1. Clone the repository:
 
 ## screenshots
-![image]()
+![image](https://github.com/Roshan-470/mini-game2--python/blob/main/Screenshot%202025-06-17%20005022.png?raw=true)
 
 ---
 ## 📈 Future Enhancements

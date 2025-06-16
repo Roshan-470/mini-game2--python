@@ -88,9 +88,10 @@ Here are some ideas to improve and expand this project:
 🙋
 I'm Roshan Hiwase, an engineering student passionate about learning software development through projects that build both skills and confidence.
 This Number Guessing Game was a small but powerful step in my programming journey. I'm always looking for ways to grow and explore new technologies!
-<a href = "https://www.linkedin.com/in/roshan-hiwase/">linkdin</a>
 
-<a href = "https://github.com/Roshan-470">github</a>
+<a href = "https://www.linkedin.com/in/roshan-hiwase/">my linkdin page </a>
+
+<a href = "https://github.com/Roshan-470">my github  page </a>
    ```bash
    git clone https://github.com/your-username/number-guessing-game.git
    cd number-guessing-game

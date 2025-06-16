@@ -37,8 +37,9 @@ This is a command-line number guessing game where:
   - Console I/O (`input()`, `print()`)
 
 ## screenshots
-![image]()
+![image](https://github.com/Roshan-470/mini-game2--python/blob/main/Screenshot%202025-06-17%20005022.png?raw=true)
 
+---
 ## future enhacements
 📈 Future Enhancements
 Here are some ideas to improve and expand this project:
@@ -70,6 +71,7 @@ Follow these steps to play the game locally:
 ## contact
 
 developer : roshan  hiwase
+
 linkdin page  :https://www.linkedin.com/in/roshan-hiwase/
 
 github:https://github.com/Roshan-470

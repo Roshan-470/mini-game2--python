@@ -71,32 +71,38 @@ You play against the computer. The one with the stronger choice wins the round!
  7.Play again to test your luck!
 
 ## 📈 Future Enhancements
- Add a scoring system (e.g., best of 5 or 10 rounds)
+ • Add a scoring system (e.g., best of 5 or 10 rounds)
 
- Implement game replay functionality without restarting the script
+ • Implement game replay functionality without restarting the script
 
- Add sound effects for win/loss feedback
+ • Add sound effects for win/loss feedback
 
- Introduce a graphical user interface using Tkinter or PyGame
+ • Introduce a graphical user interface using Tkinter or PyGame
 
- Enable multiplayer mode
+ • Enable multiplayer mode
 
- Track player statistics (wins, losses, ties)
+ • Track player statistics (wins, losses, ties)
 
- Web version using Flask or Django
+ • Web version using Flask or Django
 
- Add difficulty levels (Easy, Medium, Hard)
+ • Add difficulty levels (Easy, Medium, Hard)
 
-## screenshot
-![image](
+## screenshots
+![image](https://github.com/Roshan-470/mini-game2--python/blob/main/Screenshot%202025-06-17%20005022.png?raw=true)
 
 
 
-📬 Contact
+#📬 Contact
 Developer: Roshan
-📧 Email: your.email@example.com
-🌐 GitHub: @your-username
+
+linkdin:https://www.linkedin.com/in/roshan-hiwase/
+
+github:https://github.com/Roshan-470
+
+
 
    ```bash
+   python game.py
+
    git clone https://github.com/your-username/snake-water-gun.git
    cd snake-water-gun
